@@ -11,7 +11,7 @@ public class Main {
         double area = getArea(radius);
     }
 
-    public static double getCathetus(double hypotenuse) {
+    public static double getCathetus(double hypotenuse) {fff
         double cathetus = hypotenuse/Math.sqrt(2);
         System.out.println("cathetus: "+cathetus);
         return cathetus;
